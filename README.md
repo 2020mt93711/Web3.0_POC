@@ -1,2 +1,1 @@
-# Web3.0_POC
-Web3.0 project Code for POC 
+# web3.0 App for POC
